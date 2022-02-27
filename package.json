@@ -1,5 +1,5 @@
 {
-  "name": "React-koma",
+  "name": "reactkoma",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/FLYSASA/React-koma/issues"
   },
-  "homepage": "https://github.com/FLYSASA/React-koma#readme"
+  "homepage": "https://github.com/FLYSASA/React-koma#readme",
+  "devDependencies": {
+    "awesome-typescript-loader": "^5.2.1",
+    "typescript": "^4.5.5",
+    "webpack": "^5.69.1",
+    "webpack-cli": "^4.9.2"
+  }
 }
